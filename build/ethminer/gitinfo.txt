@@ -1,0 +1,3 @@
+v0.17.0.dev0-29-gca01d4af98c0078011ee1118674a854815fcff28-dirty
+master
+https://github.com/thankst/ethminer.git
